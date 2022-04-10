@@ -1,0 +1,5 @@
+# Ignore hughe datasets except example
+*.csv
+!example_canvas_data.csv
+
+.ipynb_checkpoints
