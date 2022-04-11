@@ -1,5 +1,6 @@
-# Ignore hughe datasets except example
+# Ignore huge datasets except example
 *.csv
+*.gzip
 !example_canvas_data.csv
 
 .ipynb_checkpoints
